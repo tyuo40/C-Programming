@@ -1,5 +1,5 @@
 //Homework 4 CS222 John Parsons G00961220
-//Could not finish locality report, current version only has basic functionality
+//Could not finish locality report
 
 #include <stdio.h>
 #include <time.h>	
